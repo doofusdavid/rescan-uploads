@@ -11,3 +11,19 @@
  *
  * @package         Rescan_Uploads
  */
+
+class DC_RescanUploads
+{
+
+	function __construct()
+	{
+
+	}
+
+	function wp_init()
+	{
+
+	}
+
+	
+}
